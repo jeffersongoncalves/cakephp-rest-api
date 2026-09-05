@@ -1,5 +1,7 @@
 # RestApi plugin for CakePHP 3
 
+![CakePHP REST API](banners/cakephp-rest-api.png)
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
 
 This plugin provides basic support for building REST API services in your CakePHP 3 application. Read a detailed guide on how to implement this here - [CakePHP: Build REST APIs with RestApi plugin](http://blog.narendravaghela.com/cakephp-build-rest-apis-with-restapi-plugin-part-1/)
