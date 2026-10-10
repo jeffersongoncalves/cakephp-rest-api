@@ -33,7 +33,7 @@
     "php": ">=7.0",
     "cakephp/cakephp": "^3.6",
     "firebase/php-jwt": ">=v4.0.0",
-    "league/fractal": ">=0.13.0"
+    "league/fractal": ">=0.13.0 <0.20"
   },
   "autoload": {
     "psr-4": {
@@ -41,7 +41,8 @@
     }
   },
   "require-dev": {
-    "cakephp/migrations": "^1.8"
+    "cakephp/migrations": "^1.8",
+    "phpunit/phpunit": "^8.5"
   },
   "minimum-stability": "stable",
   "prefer-stable": true,
